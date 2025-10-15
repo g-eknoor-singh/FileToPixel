@@ -17,12 +17,19 @@ A mini-project that converts any file(s) into an **encrypted pixel-based image**
 
 ## 🧩 Folder Structure
 FileToPixel/
+
 │
-├── encoder.py
+
+├── encoder.
+
 ├── decoder.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── /input_files/
+
 └── /output/
 
 
